@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://www.a2bsoftware.co.uk/software/github/a2b_logo_350.png" alt="A2B Software Ltd" />
+</p>
+
 # A2B Software Ltd
 
 ## Services
